@@ -297,21 +297,21 @@ export default function App() {
           <div className="flex flex-wrap justify-center gap-6">
             <motion.a 
               whileHover={{ y: -5, color: '#ff2d75' }}
-              href="mailto:hello@cyberdev.io"
+              href="mailto:sithukuzaphumeza@gmail.com"
               className="flex items-center gap-2 font-display text-sm tracking-widest uppercase border-b border-white/10 pb-2"
             >
               <Mail size={18} /> Email_Transmission
             </motion.a>
             <motion.a 
               whileHover={{ y: -5, color: '#ff2d75' }}
-              href="#"
+              href="https://github.com/Eza022/"
               className="flex items-center gap-2 font-display text-sm tracking-widest uppercase border-b border-white/10 pb-2"
             >
               <Github size={18} /> Source_Code
             </motion.a>
             <motion.a 
               whileHover={{ y: -5, color: '#ff2d75' }}
-              href="#"
+              href="https://www.linkedin.com/in/phumeza-sithukuza-345691152"
               className="flex items-center gap-2 font-display text-sm tracking-widest uppercase border-b border-white/10 pb-2"
             >
               <Linkedin size={18} /> Professional_Net
